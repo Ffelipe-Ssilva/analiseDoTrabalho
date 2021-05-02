@@ -1,0 +1,12 @@
+Felipe Silva e Pedro Souza Lopes - ADS Turma A
+
+Como jornalista, quero ter acesso a renda media geral dos brasileiros, antes e apos o covid e compara-las com suas decisões eleitorais.
+Como jornalista, preciso saber o acesso a saneamento basico dos cidadãos e compara-los com as promessas eleitorais relacionadas ao assunto
+Como jornalista, desejo ter acesso aos niveis de perigo das regiões dos eleitores e comparar
+Como jornalista, preciso ter acesso ao nivel de educação geral no brasil e comparar com o resultado da eleição passada e a atual
+Como jornalista, gostaria de saber quantos dos brasileiros tem acesso a internet e noticias eleitorais
+Como jornalista, preciso saber quantos dos eleitores venderam seus votos e para qual partido para comparar quantos votos foram influenciados
+Como jornalista, necessito saber quantos eleitores passam fome e como isso afeta em suas decisões eleitorai
+Como jornalista, gostaria de ter dados como genero e idade dos eleitores
+Como jornalista, gostaria de saber o posto de trabalho ocupado pelos eleitores e quantos são desempregados
+Como jornalista, desejo saber quantos brasileiros dependem de transporte publico, para assim saber quantos necessitam de atenção a este serviço
