@@ -1,12 +1,20 @@
 Felipe Silva e Pedro Souza Lopes - ADS Turma A
 
-Como jornalista, quero ter acesso a renda media geral dos brasileiros, antes e apos o covid e compara-las com suas decisões eleitorais.
-Como jornalista, preciso saber o acesso a saneamento basico dos cidadãos e compara-los com as promessas eleitorais relacionadas ao assunto
-Como jornalista, desejo ter acesso aos niveis de perigo das regiões dos eleitores e comparar
-Como jornalista, preciso ter acesso ao nivel de educação geral no brasil e comparar com o resultado da eleição passada e a atual
-Como jornalista, gostaria de saber quantos dos brasileiros tem acesso a internet e noticias eleitorais
-Como jornalista, preciso saber quantos dos eleitores venderam seus votos e para qual partido para comparar quantos votos foram influenciados
-Como jornalista, necessito saber quantos eleitores passam fome e como isso afeta em suas decisões eleitorai
-Como jornalista, gostaria de ter dados como genero e idade dos eleitores
-Como jornalista, gostaria de saber o posto de trabalho ocupado pelos eleitores e quantos são desempregados
-Como jornalista, desejo saber quantos brasileiros dependem de transporte publico, para assim saber quantos necessitam de atenção a este serviço
+1-)Como jornalista, quero ter acesso a renda media geral dos brasileiros, antes e apos o
+covid e compara-las com suas decisões eleitorais. 2-) Como jornalista, preciso saber o 
+acesso a saneamento basico dos cidadãos e compara-los com as promessas eleitorais 
+relacionadas ao assunto para que as estatisticas sejam mais ricas em detalhes. 3-) Como 
+jornalista, desejo ter acesso aos niveis de perigo das regiões dos eleitores e quao seguras 
+sao as regioes de onde moram. 4-) Como jornalista, preciso ter acesso ao nivel de 
+educação e escolaridade geral no brasil e comparar com o resultado da eleição passada e 
+a atual. 5-) Como jornalista, gostaria de saber quantos dos brasileiros tem acesso a internet 
+e noticias eleitorais para que eu posso informar quanto isso influencia na hora da decisao. 
+6-) Como jornalista, preciso saber quantos dos eleitores venderam seus votos e 
+para qual partido para comparar quantos votos foram influenciados.7-) Como jornalista, 
+necessito saber quantos eleitores passam fome, quantos tem acesso a comida todo mes e como 
+isso afeta em suas decisões eleitorais. 8-) Como jornalista, gostaria de ter dados como genero 
+e idade dos eleitores para que assim minha materia possa ter conteudo e estatisticas. 9-) Como 
+jornalista, gostaria de saber o posto de trabalho ocupado pelos eleitores e quantos são 
+desempregados para que possa comparar com as propostas trabalhistas. 10-) Como jornalista, desejo 
+saber quantos brasileiros dependem de transporte publico, para assim saber quantos necessitam 
+de atenção a este serviço.
