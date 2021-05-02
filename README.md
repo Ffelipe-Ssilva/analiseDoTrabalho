@@ -19,4 +19,6 @@ https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2021/02/26/des
 
 do dia 30/04/2021.
 
+
+
 Participantes : Pedro Sousa Lopes e Felipe Silva.
